@@ -1,0 +1,81 @@
+body {
+	background-color: rgb(48, 95, 181);
+	font-family: Calibri;
+}
+
+#container {
+float: right;
+}
+
+
+.imageAndIntro {
+    text-align: right;
+}
+
+h1 {
+    color: aliceblue;
+    font-style: italic;
+    padding: auto;
+    text-shadow: 2px 2px;
+}
+
+h2 {
+    color: white;
+    font-style: italic;
+    padding: auto;
+}
+
+#container1 {
+    float: left;
+    margin-top: 135px;
+    border: 10px black;
+}
+.bio {
+    text-align: left;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-190%, -60%)
+    
+}
+
+.About{
+    background-color: white;
+    border: 20px black;
+    float: left;
+    position:relative;
+    width: 100%;
+}
+
+.Education {
+    background-color: white;
+    border: 20px black;
+    width: 50%;
+    float: left;
+}
+
+.Experience {
+    background-color: white;
+    border: 20px black;
+    width: 50%;
+    float: right;
+}
+
+.SkillsAndAbilities {
+    background-color: white;
+    width: 100%;
+    float: right;
+}
+
+#Links {
+    background-color: rgb(236,236,245);
+    margin-right: 4000px;
+    margin-left: 400px;
+    width: 60%;
+    text-align: left;
+}
+
+
